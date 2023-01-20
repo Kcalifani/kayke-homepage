@@ -11,10 +11,10 @@ Como colocar um paragrafo:<p>Link</p>
 Como chamar um site:<a href="https://rocketseat.com.br">Ver site</a>
 
 
-Cmo colocar uma imagem:<img src="https://source.unsplash.com/radom"/>                                                                A VISO NAO PODE COMEÇAR COM NUMERO  NEM COM CARACTERES
-                                                                                                                                     SO PODE COMEÇAR COM  _   	
+Cmo colocar uma imagem:<img src="https://source.unsplash.com/radom"/>                                                                A VISO NAO PODE COMEÃƒÂ‡AR COM NUMERO  NEM COM CARACTERES
+                                                                                                                                     SO PODE COMEÃƒÂ‡AR COM  _   	
                                                                                                                                                 /                          
-                                                                                                                                                /
+                                                                                                                                               /
 Como colocar cor no paragrafo:p{                                                                                                                /
   color: red;                                                                                                                                   / 
 }                                                                                                                                               /
@@ -78,7 +78,7 @@ p{
 }
 
 
-Como tirar os espaços:display: inline;
+Como tirar os espaÃ§os:display: inline;
 
 
 
@@ -93,10 +93,11 @@ Como  quebrar linha:<div></div>
 
 
 
-Opições do background:
+
+OpiÃ§Ãµes do background:
 background-color:Colocar cor
 background-image:Colocar imagem
-background-position:Mexer na posição da imagem
+background-position:Mexer na posiÃ§Ã£o da imagem
 background-repeat:Repetir a imagem
 background-size:Mexer no tamanho da imagem
 
@@ -166,6 +167,9 @@ Como abrir um site numa nova guia sem sair da principal:target="_blanck"
 
 
 
+
+
+//COMENTÃƒRIO DO DENIS
 
 
 
