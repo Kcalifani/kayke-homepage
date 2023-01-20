@@ -39,7 +39,7 @@ ul  {
   flex-direction: column;
   gap: 16px;
   padding-inline-start: 0px;
-  padding: 24px 0;
+  padding: 24px 1;
 }
 
 ul li a {
