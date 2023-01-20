@@ -11,10 +11,10 @@ Como colocar um paragrafo:<p>Link</p>
 Como chamar um site:<a href="https://rocketseat.com.br">Ver site</a>
 
 
-Cmo colocar uma imagem:<img src="https://source.unsplash.com/radom"/>                                                                A VISO NAO PODE COMEÇAR COM NUMERO  NEM COM CARACTERES
-                                                                                                                                     SO PODE COMEÇAR COM  _   	
+Cmo colocar uma imagem:<img src="https://source.unsplash.com/radom"/>                                                                A VISO NAO PODE COMEÃAR COM NUMERO  NEM COM CARACTERES
+                                                                                                                                     SO PODE COMEÃAR COM  _   	
                                                                                                                                                 /                          
-                                                                                                                                                /
+                                                                                                                                               /
 Como colocar cor no paragrafo:p{                                                                                                                /
   color: red;                                                                                                                                   / 
 }                                                                                                                                               /
@@ -93,6 +93,7 @@ Como  quebrar linha:<div></div>
 
 
 
+
 Opições do background:
 background-color:Colocar cor
 background-image:Colocar imagem
@@ -167,9 +168,8 @@ Como abrir um site numa nova guia sem sair da principal:target="_blanck"
 
 
 
-//COMENTÁRIO DO DENIS
 
-
+//COMENTÃRIO DO DENIS
 
 
 
