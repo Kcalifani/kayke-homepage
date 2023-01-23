@@ -1,0 +1,203 @@
+Como colocar cor:body{
+  background-color:blue
+}
+
+Como escrevaer titulo:<h1>Titulo</h1>
+
+
+Como colocar um paragrafo:<p>Link</p>
+
+
+Como chamar um site:<a href="https://rocketseat.com.br">Ver site</a>
+
+
+Cmo colocar uma imagem:<img src="https://source.unsplash.com/radom"/>                                                                A VISO NAO PODE COMEÃAR COM NUMERO  NEM COM CARACTERES
+                                                                                                                                     SO PODE COMEÃAR COM  _   	
+                                                                                                                                                /                          
+                                                                                                                                               /
+Como colocar cor no paragrafo:p{                                                                                                                /
+  color: red;                                                                                                                                   / 
+}                                                                                                                                               /
+                                                                                                                                                /
+                                                                                                                                                /  
+Como colocar cor num unico paragrafo e preciso colocar o que esta escrito em baixo depois colocar o que esta escrito em baixo do em baixo:///////
+<p id="unico-1">Ola, mundo!</p>
+
+p#unico-1{
+  color: red;
+}
+
+
+Como criar um classe:<p class="qualquer">bora billllllllll</p>
+
+
+
+Outro jeito de colocar cor com uma classe:
+<p class="qualquer">bora billllllllll</p> "DEPOIS"
+
+.qualquer{
+  color: aqua;
+}
+
+
+
+
+Como quebrar linha:<br>
+
+
+
+Como colocar borda:header{
+  border: 4px solid red;
+}
+
+
+
+
+
+Como colocar borda, altura e preenchimento:
+
+
+header{
+  border: 4px solid red;     BORDA
+   
+  height: 200px;        ALTURA
+
+  padding: 12px        PREENCHIMENTO
+
+}
+
+Como clocar margem:
+
+p{
+   margin: 20px;   MARGEM
+
+
+  border: 4px solid purple ;   BORDA
+
+
+}
+
+
+Como tirar os espaços:display: inline;
+
+
+
+
+Como quebrar o spam:display: block;
+
+
+
+
+
+Como  quebrar linha:<div></div>
+
+
+
+
+Opições do background:
+background-color:Colocar cor
+background-image:Colocar imagem
+background-position:Mexer na posição da imagem
+background-repeat:Repetir a imagem
+background-size:Mexer no tamanho da imagem
+
+
+
+
+
+Como chamar a imagem:
+body{
+  background-image: url(./assets/bg-mobile.jpg);
+}
+
+
+
+
+
+Como parar de fazer a imagem se repit:
+body{
+  background-repeat: no-repeat;
+}                                                
+
+
+
+
+Como colocar a imagem no centro:
+body{
+  background-position: top center;
+}
+
+
+
+
+Codigo para chamar imagem: '
+<link rel="stylesheet"  href="style.css" > 
+
+
+
+Codigo para colocar a imagem pequena no centro da tela:
+body{
+  background-size: contain;
+}
+
+ 
+
+
+Como deixar  alguma coisa automatico:
+body{
+
+margin:auto;
+
+
+}
+
+
+
+
+Como  colocar imagem no centro:
+ text-align: center;
+
+
+
+
+
+
+Como abrir um site numa nova guia sem sair da principal:target="_blanck" 
+
+
+
+
+
+
+//COMENTÃRIO DO DENIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
