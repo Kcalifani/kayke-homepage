@@ -55,8 +55,9 @@ body * {
 /*switch*/
 
 #switch {
- border: 1px solid red;
  position: relative;
+ width: 66px;
+ margin: 4px auto;
 }
 
 #switch button {
@@ -66,8 +67,15 @@ body * {
  border: 0;
  border-radius: 50%;
  position: absolute;
- right: 0;
+ top: 50%;
+ left: 0;
  z-index: 1;
+ transform: translateY(-50%);
+}
+
+.light #switch button {
+  right: 0;
+  left: initial;
 }
 
 #switch span {
