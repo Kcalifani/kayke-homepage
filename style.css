@@ -34,6 +34,7 @@ body * {
  padding: 0 24px;
 }
 
+/*profile*/
 #profile {
  text-align: center;
  padding: 24px;
@@ -48,6 +49,16 @@ body * {
   font-size: 16px;
   line-height: 24px;
   margin-top: 8px;
+}
+
+/*switch*/
+
+#switch button {
+ width: 32px;
+ height: 32px;
+ background: white url(./assets/moon-stars.svg) no-repeat center;
+ border: 0;
+ border-radius: 50%;
 }
 
 /* links */
