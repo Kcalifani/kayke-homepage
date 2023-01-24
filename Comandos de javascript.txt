@@ -1,0 +1,44 @@
+Como mandar escrever: alert("Olá, mundo!")
+
+
+
+Como juntar coisas e multiplicar: alert((10 * 100) + " abraços!")
+
+Como mandar escrever javascript no html: <script>alert("Olá, mundo!")<script>
+
+
+
+
+Como importar um arquivo javascript no html: <script src=""></script> 
+
+
+
+String coloca tudo que está entre aspas(""  '' ``)
+
+
+
+Number  tudo que é número inteiro e decimal
+
+
+Boolean fala se algo é falso(false) ou verdadeiro(true)
+
+
+let uma variavel que não pode mudar o valor 
+
+const uma variavel que pode mudar o valor
+
+Como escrever uma função: function sayHello() {
+alert("Olá")
+}
+
+
+
+Como usar um objeto: const celular = {
+     
+Cor: "Preto",
+      
+ligar: function () {
+         
+alert("ligando")}
+
+} 
