@@ -2,6 +2,7 @@ body {
   background-image: var(--bg-url);
   background-position: 30%;
   background-attachment: fixed;
+  height: 100vh;
 }
 
 body * {
