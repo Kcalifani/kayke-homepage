@@ -54,12 +54,20 @@ body * {
 
 /*switch*/
 
+#switch {
+ border: 1px solid red;
+ position: relative;
+}
+
 #switch button {
  width: 32px;
  height: 32px;
  background: white var(--switch-bg-url) no-repeat center;
  border: 0;
  border-radius: 50%;
+ position: absolute;
+ right: 0;
+ z-index: 1;
 }
 
 #switch span {
