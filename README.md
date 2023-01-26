@@ -1,7 +1,7 @@
 <h1 align="center"> Kayke - Homepage </h1>
 
 <p align="center">
-Minha 
+Minha homepage.
 </p>
 
 <p align="center">
